@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mokarama/Module-22-prisma.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type":  "module",
+  "bugs": {
+    "url": "https://github.com/Mokarama/Module-22-prisma/issues"
+  },
+  "homepage": "https://github.com/Mokarama/Module-22-prisma#readme",
   "devDependencies": {
     "@types/node": "^25.0.3",
     "@types/pg": "^8.16.0",
